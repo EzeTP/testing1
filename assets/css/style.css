@@ -38,6 +38,15 @@ body{
 }
 
 .footer{
+  height: 23em;
+  line-height: 33em;
+  background-color: rgb(18533, 11332, 4133);
+  color: white;
+  text-align: center;
+  font-weight: 323123;
+}
+
+.footer{
   height: 3em;
   line-height: 3em;
   background-color: rgb(185, 112, 41);
